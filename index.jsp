@@ -416,15 +416,10 @@
 					</script>
 			<div class="subV2" style="background:url('./index_files/201712020251285250.jpg') no-repeat center bottom #1C588B; background-size:cover;">
 	<div class="subVdiv inner" style="padding: 160px 0 0;">
-		<p class="txt1">디지털 엔터프라이즈 솔루션!</p>
-		<p class="txt2">Digital Enterprise Solution! - hyosung-demo.zzz2613.com</p>
-    <p class="txt3">&nbsp;</p>
+		<p class="txt1">디지털 엔터프라이즈 솔루션</p>
+		<p class="txt2">Digital Enterprise Solution</p>
 		<p class="txt3">&nbsp;</p>
-		<p class="txt3">Pod Name : <%=System.getenv("MY_POD_NAME")%></p>
-		<p class="txt3">Pod IP : <%=System.getenv("MY_POD_IP")%></p>
 		<p class="txt3">&nbsp;</p>
-		<p class="txt3">Node Name : <%=System.getenv("MY_NODE_NAME")%></p>
-		<p class="txt3">Node IP : <%=System.getenv("MY_NODE_IP")%></p>
 	</div>
 </div>
 <div id="subCon">
